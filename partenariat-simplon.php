@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: simplon_plugin
-Plugin URI: 
+Plugin URI: https://github.com/RobinVerger/partenariat-simplon
 Description: Un plugin qui fait de la pub pour simplon
-Version: 0.1
+Version: 1.0
 Author: Robin
 */
 
