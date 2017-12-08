@@ -5,6 +5,8 @@ Plugin URI: https://github.com/RobinVerger/partenariat-simplon
 Description: Un plugin qui fait de la pub pour simplon
 Version: 1.0
 Author: Robin
+Author URI : https://github.com/RobinVerger
+License : lps2
 */
 
 function ShortcodeSimplon() {
